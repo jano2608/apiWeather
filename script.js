@@ -28,7 +28,7 @@ fetch('https://api.openweathermap.org/data/2.5/weather?q='+input.value+'&appid=1
           document.body.style.backgroundImage = 'url("https://i.imgur.com/g2hyeVO.jpg")'
           break;
       case 'Clouds' :
-          document.body.style.backgroundImage = 'url("https://i.imgur.com/QYTQGgv.jpgg")'
+          document.body.style.backgroundImage = 'url("hhttps://i.imgur.com/QYTQGgv.jpg")'
       break;  
 
       case 'Rain':
